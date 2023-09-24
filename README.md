@@ -21,5 +21,6 @@ Folder **"algorithm"** includes .R funcs for simulating RL data and estimating t
 
 
 
-
+### RL_Poster.pdf
+The poster of this project.
 
