@@ -1,6 +1,6 @@
 # Semiparametric-RL-for-Mental-Disorder
 
-R code for the analysis from the paper "A Semiparametric Inverse Reinforcement Learning Approach to Characterize Decision Making for Mental Disorders". by Xingche Guo, Donglin Zeng, and Yuanjia Wang.  https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2261184
+R code for the analysis from the paper "A Semiparametric Inverse Reinforcement Learning Approach to Characterize Decision Making for Mental Disorders". by Xingche Guo, Donglin Zeng, and Yuanjia Wang.  https://doi.org/10.1080/01621459.2023.2261184
 
 ## Overview
 
