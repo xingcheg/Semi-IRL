@@ -4,10 +4,7 @@ R code for the analysis from the paper "A Semiparametric Inverse Reinforcement L
 
 A more complete version of R code for reproducing simulation and real data results in the paper can found at https://doi.org/10.1080/01621459.2023.2261184
 
-
-![Alt text](https://github.com/xingcheg/Semi-IRL/blob/main/model_structure.png "Model Structure")
-
-<img src="model_structure.png" alt="drawing" width="200"/>
+<img src="model_structure.png" alt="Model Structure" width="800"/>
 
 ## Overview
 
