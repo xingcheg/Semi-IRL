@@ -23,7 +23,7 @@ Folder **"algorithm"** includes .R funcs for simulating RL data and estimating t
 * The .R file **"algorithm/LRL_algo.R"** is the R function that performs our proposed optimization algorithm to estimate linear RL parameters.
 
 ## example_run.R
-An example of showing how to simulate RL data and estimate parameters using our proposed semiparametric IRL method.
+An .R example showing how to simulate RL data and estimate parameters using our proposed semiparametric IRL method.
 
 ### RL_Poster.pdf
 The poster of this project.
